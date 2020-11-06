@@ -3,7 +3,7 @@ package winman_test
 import (
 	"testing"
 
-	"github.com/epiclabs-io/winman"
+	"github.com/r3ap3r2004/winman"
 )
 
 func TestRect(t *testing.T) {

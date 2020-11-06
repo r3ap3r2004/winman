@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/epiclabs-io/winman"
+	"github.com/r3ap3r2004/winman"
 	"github.com/rivo/tview"
 )
 

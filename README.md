@@ -1,7 +1,6 @@
 # Winman - go Window Manager for terminal UIs
-[![Build Status](https://travis-ci.org/epiclabs-io/winman.svg?branch=master)](https://travis-ci.org/epiclabs-io/winman)
-[![Go Report](https://goreportcard.com/badge/github.com/epiclabs-io/winman)](https://goreportcard.com/report/github.com/epiclabs-io/winman)
-[![Godoc Reference](https://godoc.org/github.com/epiclabs-io/winman?status.svg)](https://pkg.go.dev/github.com/epiclabs-io/winman)
+[![Go Report](https://goreportcard.com/badge/github.com/r3ap3r2004/winman)](https://goreportcard.com/report/github.com/r3ap3r2004/winman)
+[![Godoc Reference](https://godoc.org/github.com/r3ap3r2004/winman?status.svg)](https://pkg.go.dev/github.com/r3ap3r2004/winman)
 
 Winman is a basic yet powerful window manager in go for terminal-based user interfaces that plugs into [tview](github.com/rivo/tview).
 
@@ -18,7 +17,7 @@ Windows can overlap each other by setting their Z-index. Any `tview.Primitive` c
 ## Installation
 
 ```bash
-go get github.com/epiclabs-io/winman
+go get github.com/r3ap3r2004/winman
 ```
 
 ## Hello world
@@ -27,7 +26,7 @@ go get github.com/epiclabs-io/winman
 package main
 
 import (
-	"github.com/epiclabs-io/winman"
+	"github.com/r3ap3r2004/winman"
 	"github.com/rivo/tview"
 )
 
@@ -64,7 +63,7 @@ func main() {
 
 ## Documentation
 
-Refer to https://pkg.go.dev/github.com/epiclabs-io/winman for the package's documentation.
+Refer to https://pkg.go.dev/github.com/r3ap3r2004/winman for the package's documentation.
 The `demos` directory contains a showcase demonstrating the different aspects of this library
 
 ## Dependencies
